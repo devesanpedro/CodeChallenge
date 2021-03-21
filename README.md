@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
    Set Multiple startup projects (CodeChallenge.API and CodeChallenge.Web) 
   ![name-of-you-image](https://github.com/devesanpedro/CodeChallenge/blob/master/startup-projects.PNG?raw=true)
   
-## Screenshot
+## Screenshots
 
 ![name-of-you-image](https://github.com/devesanpedro/CodeChallenge/blob/master/application-screenshot.PNG?raw=true)
 
