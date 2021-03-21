@@ -18,7 +18,12 @@ These instructions will get you a copy of the project up and running on your loc
    ```sh
    git clone https://github.com/devesanpedro/CodeChallenge.git
    ```
-2. Open package manager console and set default project: <b>CodeChallenge.Persistence</b>
+2. Open package manager console and set default project: <b>CodeChallenge.API</b>
+   ```sh
+   Run command:
+   PM> Install-Package Microsoft.EntityFrameworkCore.Design -Version 5.0.4
+   ```
+2. Set default project: <b>CodeChallenge.Persistence</b>
    ```sh
    Run command:
    PM> Update-Database //Create initial database
