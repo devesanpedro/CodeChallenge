@@ -33,6 +33,11 @@ These instructions will get you a copy of the project up and running on your loc
    Open Solution Property Pages
    Set Multiple startup projects (CodeChallenge.API and CodeChallenge.Web) 
   ![name-of-you-image](https://github.com/devesanpedro/CodeChallenge/blob/master/startup-projects.PNG?raw=true)
+  
+## Screenshot
+
+![name-of-you-image](https://github.com/devesanpedro/CodeChallenge/blob/master/application-screenshot.PNG?raw=true)
+
 ## Authors
 * **Elmer San Pedro** - *Coding Exercise* - [CodeChallenge](https://github.com/devesanpedro/CodeChallenge)
    ```
