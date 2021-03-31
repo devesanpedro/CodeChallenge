@@ -26,9 +26,9 @@ namespace CodeChallenge.Persistence.Database
             modelBuilder.Entity<TransactionType>().HasData(new TransactionType { Id = 2, Name = "OUT" });
 
             //Seed Employee
-            modelBuilder.Entity<Employee>().HasData(new Employee { Id = 1, FirstName = "Elmer", LastName = "San Pedro", Gender = Enums.Gender.Male, DateHired = DateTime.Now });
-            modelBuilder.Entity<Employee>().HasData(new Employee { Id = 2, FirstName = "Bill", LastName = "Gate", Gender = Enums.Gender.Male, DateHired = DateTime.Now });
-            modelBuilder.Entity<Employee>().HasData(new Employee { Id = 3, FirstName = "Sarah", LastName = "McGregor", Gender = Enums.Gender.Female, DateHired = DateTime.Now });
+            //modelBuilder.Entity<Employee>().HasData(new Employee { Id = 1, FirstName = "Elmer", LastName = "San Pedro", Gender = Enums.Gender.Male, DateHired = DateTime.Now });
+            //modelBuilder.Entity<Employee>().HasData(new Employee { Id = 2, FirstName = "Bill", LastName = "Gate", Gender = Enums.Gender.Male, DateHired = DateTime.Now });
+            //modelBuilder.Entity<Employee>().HasData(new Employee { Id = 3, FirstName = "Sarah", LastName = "McGregor", Gender = Enums.Gender.Female, DateHired = DateTime.Now });
         }
     }
 }
